@@ -10,7 +10,7 @@ INSTRUCTIONS
 2. Put directory of video down in cell 2
 3. Run Cell 3 to collect frames from video, creates a folder called "frames_A1". 
 4. Run all cells, can change hyperparameters in cell 8
-	- Levels determines how many neighbouring blocks the program will search for
+	- Levels determines how many neighbouring blocks the program will search for (1 = 9 blocks, 2 = 16 blocks, etc.)
 	- Block width determines dimensions of blocks
 	- Threshold of SSD (Sum of Squared Differences) accepted. The higher the value, the less movement the program tracks, and vice versa.
 5. Run final cell, generates video named "motion_estimation_vid.mov.
