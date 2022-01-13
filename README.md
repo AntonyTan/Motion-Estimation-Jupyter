@@ -2,7 +2,7 @@
 
 A demo can be found here https://www.youtube.com/watch?v=9uyCmfPnyZY
 
-An implementation of the Block-Matching Algorithm using Jupyter Notebook. Draws in arrows into videos that correlate with the velocity of movement within the video. 
+An implementation of the Block-Matching Algorithm using Jupyter Notebook. Draws in arrows into videos that correlate with the velocity of movement within the video. Can be used to determine movement within videos or for compression purposes.
 
 INSTRUCTIONS
 
